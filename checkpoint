@@ -1,0 +1,2 @@
+model_checkpoint_path: "log_reg_model_test.ckpt"
+all_model_checkpoint_paths: "log_reg_model_test.ckpt"
